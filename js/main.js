@@ -57,13 +57,13 @@ window.onload = () => {
   setInterval(startTimer, 1000)
 }
 
-let staticDate = new Date('May 31, 2022 12:24:27').getTime()
+let staticDate = new Date('April 28, 2024 00:00:00').getTime()
 
 const updateCountdown = (d, h, m, s) => {
   daysElement.innerText = d
   hoursElement.innerText = h
   minutesElement.innerText = m
-  secondsElement.innerText = s
+  secondsElement.innerText = si
 }
 
 const startTimer = () => {
