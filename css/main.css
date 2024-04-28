@@ -110,19 +110,19 @@ body {
 }
 
 #timer #days::before {
-  content: 'Dias';
+  content: 'Days';
 }
 
 #timer #hours::before {
-  content: 'Horas';
+  content: 'Hours';
 }
 
 #timer #minutes::before {
-  content: 'Minutos';
+  content: 'Minutes';
 }
 
 #timer #seconds::before {
-  content: 'Segundos';
+  content: 'Seconds';
 }
 
 /*---*/
